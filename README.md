@@ -1,3 +1,3 @@
 # Shit To Do
 
-*Save highscores into DB
+* Save highscores into DB
